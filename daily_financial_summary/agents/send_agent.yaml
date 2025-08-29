@@ -1,0 +1,4 @@
+name: "Send Agent"
+description: "Posts the summary, charts, and translations to a Telegram channel."
+tools:
+  - telegram_tool

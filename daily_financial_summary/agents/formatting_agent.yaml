@@ -1,0 +1,4 @@
+name: "Formatting Agent"
+description: "Finds 2 related charts/images and places them in the summary."
+tools:
+  - formatting_tool

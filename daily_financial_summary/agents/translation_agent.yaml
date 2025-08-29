@@ -1,0 +1,4 @@
+name: "Translation Agent"
+description: "Translates the summary into Arabic, Hindi, and Hebrew."
+tools:
+  - llm_tool

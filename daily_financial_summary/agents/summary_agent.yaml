@@ -1,0 +1,4 @@
+name: "Summary Agent"
+description: "Creates a concise (<500 words) daily US market summary."
+tools:
+  - llm_tool

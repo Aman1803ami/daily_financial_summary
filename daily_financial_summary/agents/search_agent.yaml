@@ -1,0 +1,4 @@
+name: "Search Agent"
+description: "Fetches the latest US financial news (last hour)."
+tools:
+  - search_tool

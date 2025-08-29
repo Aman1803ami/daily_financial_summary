@@ -1,0 +1,30 @@
+name: "Daily US Market Summary"
+description: >
+  A CrewAI pipeline that generates a daily US financial markets summary
+  with charts, translations, and sends it to Telegram.
+
+flow:
+  - id: search_step
+    agent: search_agent
+    output: search_results
+
+  - id: summary_step
+    agent: summary_agent
+    input: search_results
+    output: english_summary
+
+  - id: format_step
+    agent: formatting_agent
+    input: english_summary
+    output: formatted_summary
+
+  - id: translation_step
+    agent: translation_agent
+    input: formatted_summary
+    output: translations
+
+  - id: send_step
+    agent: send_agent
+    input:
+      summary: formatted_summary
+      translations: translations
