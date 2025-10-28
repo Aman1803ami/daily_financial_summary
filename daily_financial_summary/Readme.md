@@ -1,7 +1,3 @@
-Got it ✅ — here’s a clean README.md you can drop into your CrewAI project repo:
-
-
----
 
 📈 CrewAI Daily US Market Summary
 
@@ -136,6 +132,7 @@ These are preserved with formatting and shared alongside the English version.
 
 
 ---
+
 
 
 
