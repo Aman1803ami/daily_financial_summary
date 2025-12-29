@@ -20,7 +20,7 @@ Translation Agent → translates into Arabic, Hindi, and Hebrew
 Send Agent → posts summary + charts to Telegram channel
 
 
-
+https://github.com/Aman1803ami/daily_financial_summary/blob/main/daily_financial_summary/Readme.md
 ---
 
 
@@ -32,7 +32,7 @@ Send Agent → posts summary + charts to Telegram channel
 
 1. Clone repo & install dependencies
 
-git clone https://github.com/Aman1803ami/crewai-daily-summary.git
+git clone https://github.com/Aman1803ami/daily_financial_summary.git
 cd crewai-daily-summary
 pip install -r requirements.txt
 
@@ -132,6 +132,7 @@ These are preserved with formatting and shared alongside the English version.
 
 
 ---
+
 
 
 
