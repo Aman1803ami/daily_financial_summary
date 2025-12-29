@@ -32,7 +32,7 @@ Send Agent → posts summary + charts to Telegram channel
 
 1. Clone repo & install dependencies
 
-git clone https://github.com/your-username/crewai-daily-summary.git
+git clone https://github.com/Aman1803ami/crewai-daily-summary.git
 cd crewai-daily-summary
 pip install -r requirements.txt
 
@@ -132,6 +132,7 @@ These are preserved with formatting and shared alongside the English version.
 
 
 ---
+
 
 
 
