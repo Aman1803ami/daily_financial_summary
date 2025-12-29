@@ -20,7 +20,7 @@ Translation Agent → translates into Arabic, Hindi, and Hebrew
 Send Agent → posts summary + charts to Telegram channel
 
 
-https://github.com/Aman1803ami/daily_financial_summary/blob/main/daily_financial_summary/Readme.md
+
 ---
 
 
@@ -30,7 +30,7 @@ https://github.com/Aman1803ami/daily_financial_summary/blob/main/daily_financial
 
 ⚙ Setup
 
-1. Clone repo & install dependencies
+1. Clone repo & install endencies
 
 git clone https://github.com/Aman1803ami/daily_financial_summary.git
 cd crewai-daily-summary
@@ -132,6 +132,7 @@ These are preserved with formatting and shared alongside the English version.
 
 
 ---
+
 
 
 
